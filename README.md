@@ -21,11 +21,11 @@ I'm Jelon!
 
 ![https://github-readme-stats.vercel.app/api?username=jangdelong&theme=light&show_icons=true](https://github-readme-stats.vercel.app/api?username=jangdelong&theme=light&show_icons=true)
 
-💬 **Most used language**
-
-![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=light)
-
 🔭 **Total contribution**
 
 ![https://github-readme-streak-stats.herokuapp.com/?user=jangdelong](https://github-readme-streak-stats.herokuapp.com/?user=jangdelong)
+
+💬 **Most used language**
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=light)
 
