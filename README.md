@@ -19,7 +19,7 @@ I'm Jelon!
 
 🌟 **Github stats**
 
-![https://github-readme-stats.vercel.app/api?username=jangdelong&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=jangdelong&theme=dark&show_icons=true)
+![https://github-readme-stats.vercel.app/api?username=jangdelong&theme=light&show_icons=true](https://github-readme-stats.vercel.app/api?username=jangdelong&theme=light&show_icons=true)
 
 💬 **Most used language**
 
