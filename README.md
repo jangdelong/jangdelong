@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 I'm Jelon!
 
-🌟**Github stats**
+🌟 **Github stats**
 
 ![https://github-readme-stats.vercel.app/api?username=jangdelong&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=jangdelong&theme=dark&show_icons=true)
 
-💬**Most used language**
+💬 **Most used language**
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=gray](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark)
 
-🔭**Total contribution**
+🔭 **Total contribution**
 
 ![https://github-readme-streak-stats.herokuapp.com/?user=jangdelong&theme=highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=jangdelong&theme=highcontrast)
 
