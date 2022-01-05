@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jelon.
+
+// github - stats
+https://github-readme-stats.vercel.app/api?username=jangdelong&theme=dark&show_icons=true
+// most - used-language
+https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark
+// total - contribution
+https://github-readme-streak-stats.herokuapp.com/?user=jangdelong&theme=highcontrast
+
