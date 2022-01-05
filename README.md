@@ -27,5 +27,5 @@ I'm Jelon!
 
 🔭 **Total contribution**
 
-![https://github-readme-streak-stats.herokuapp.com/?user=jangdelong&theme=highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=jangdelong&theme=highcontrast)
+![https://github-readme-streak-stats.herokuapp.com/?user=jangdelong](https://github-readme-streak-stats.herokuapp.com/?user=jangdelong)
 
