@@ -23,7 +23,7 @@ I'm Jelon!
 
 💬 **Most used language**
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=gray](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=jangdelong&layout=compact&hide=html&theme=dark)
 
 🔭 **Total contribution**
 
