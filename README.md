@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jelon, A front-end developer and work in Shenzhen, China!
+I'm Jelon, a front-end developer and work in Shenzhen, China!
 
 - [![Email](https://img.shields.io/badge/Email-jangdelong@qq.com-blue)](jangdelong@qq.com)
 - [![Blog](https://img.shields.io/badge/Blog-https://jelon.info-orange)](https://jelon.info)
